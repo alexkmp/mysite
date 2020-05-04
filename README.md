@@ -1,2 +1,2 @@
 # mysite
-Single Page Javascript Application
+Single Page Javascript Application for Education
